@@ -2,3 +2,8 @@ hello
 i am able to check 
 the progress of my pace
 i want to commit this file 
+
+this is another time i am checking 
+if git commit is wroing properly by me 
+i love talikng to computer
+thankyou git
